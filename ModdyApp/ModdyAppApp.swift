@@ -11,7 +11,8 @@ import SwiftUI
 struct ModdyAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DashboardView()
         }
     }
 }
+    
